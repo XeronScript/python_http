@@ -55,7 +55,7 @@ class WarehouseHTTPServer(BaseHTTPRequestHandler):
             <head>
                 <style>
                     table {{ border-collapse: collapse; }}
-                    th, td {{ border: 1px solid black; padding 12px; }}
+                    th, td {{ border: 1px solid black; padding: 5px; }}
                 </style>
             </head>
             <body>
